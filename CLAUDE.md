@@ -1,8 +1,5 @@
 # CLAUDE.md — Custom C++ Game Engine
 
-> Drop this file at the repository root. Claude Code reads it automatically as project context.
-> Placeholder name: the engine namespace/target is called **`Engine`** throughout — rename it to your engine's real name in one pass before or during Phase 0.
-
 ---
 
 ## 1. What this project is
